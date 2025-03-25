@@ -9,7 +9,7 @@ This repo is aimed at gaining practical experience in integrating and managing L
 
 The following is the high-level architecture diagram
 
-image.png
+![Lambda Architecture](images/lambda-architecture.svg)
 
 1.Introduction
 Getting Started
